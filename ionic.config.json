@@ -1,0 +1,7 @@
+{
+  "name": "ion-products",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
