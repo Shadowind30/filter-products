@@ -1,0 +1,12 @@
+ion-page{
+    margin:10%;
+}
+
+ion-text{
+    margin-left: 2%;
+}
+
+div > ion-title{
+    margin: 2%;
+    font-size: 25px;
+}
