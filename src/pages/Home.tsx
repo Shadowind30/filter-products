@@ -55,7 +55,7 @@ const Home: React.FC = () => {
     <IonPage >
       <IonHeader>
         <IonToolbar color="tertiary">
-          <IonTitle>Product List </IonTitle>
+          <IonTitle className="ion-text-center">Product List </IonTitle>
         </IonToolbar>
       </IonHeader>
       <IonContent>

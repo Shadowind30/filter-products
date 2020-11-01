@@ -1,7 +1,6 @@
 {
   "name": "ion-products",
   "version": "0.0.1",
-  "homepage": "https://github.com/Shadowind30/filter-products",
   "private": true,
   "dependencies": {
     "@capacitor/core": "2.1.0",
@@ -46,7 +45,8 @@
     ]
   },
   "devDependencies": {
-    "@capacitor/cli": "2.1.0"
+    "@capacitor/cli": "2.1.0",
+    "@ionic/app-scripts": "^3.2.4"
   },
   "description": "An Ionic React project"
 }
